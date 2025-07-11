@@ -15,7 +15,7 @@ It showcases a fictional resume builder called **ProCV**.
 
 ## Live Demo
 
-🚀 **[View Live Demo Here](YOUR_GITHUB_PAGES_URL_HERE)** 🚀
+🚀 **[View Live Demo Here](https://alrayyan2157.github.io/Product-Landing-Page-Project/)** 🚀
 
 ## Technologies Used
 
